@@ -8,17 +8,17 @@ function logDriversByHometown(driver, location){
 }
 
 function driversByRevenue(){
-  
+
 }
 
 function driversByName(array){
-  
+
 }
 
 function totalRevenue(driver){
-  
+
 }
 
 function averageRevenue(driver){
-  
-}
+  return totalRevenue(driver) / driver.length;
+};
