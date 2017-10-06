@@ -2,3 +2,7 @@
 function logDriverNames(driver){
   
 }
+
+function logDriversByHometown(driver, location){
+  
+}
